@@ -3,6 +3,15 @@
 function answer(x, y) {
   let result = "";
   // 코드 구현 
+  if(x < y){
+    result = "<"
+  } else if ( x > y){
+    result = ">"
+  } else if ( x = y) {
+    result = "="
+  }
+
+
   return result;
 }
 

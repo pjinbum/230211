@@ -2,6 +2,12 @@
 function answer(x, y) {
   let min;
   // 코드 구현
+  min = Math.min(x, y);
+  
+  // min = Math.min.apply(null, input)
+
+
+  //
   return min;
 }
 
