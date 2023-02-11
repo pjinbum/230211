@@ -14,7 +14,7 @@ function answer(x, y) {
 
   // 
   return result;
-
+// 
   console.log(result)
 }
 
