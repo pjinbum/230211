@@ -27,6 +27,7 @@ function answer(score) {
   // // return average;
 
   //소수점 3번째 자리부터 반올림
+  // this is not complete
 }
 
 
